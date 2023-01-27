@@ -34,17 +34,4 @@ export const updateUser =  (req,res) => {
 
     console.log(`username has been updated to ${req.body.username}.age has been updated to ${req.body.age}`)
 };
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
